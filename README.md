@@ -137,7 +137,7 @@ Hackathon build: a two-phase KYC risk engine (weighted 0–100 score + 16 hard o
 
 <div align="center">
 
-<a href="#"><img src="https://img.shields.io/badge/LinkedIn-09090b?style=for-the-badge&logo=linkedin&logoColor=F59E0B" /></a>
+<a href="https://www.linkedin.com/in/sangam-shrestha-582708387/"><img src="https://img.shields.io/badge/LinkedIn-09090b?style=for-the-badge&logo=linkedin&logoColor=F59E0B" /></a>
 <a href="#"><img src="https://img.shields.io/badge/Portfolio-09090b?style=for-the-badge&logo=vercel&logoColor=F59E0B" /></a>
 <a href="#"><img src="https://img.shields.io/badge/Email-09090b?style=for-the-badge&logo=gmail&logoColor=F59E0B" /></a>
 
